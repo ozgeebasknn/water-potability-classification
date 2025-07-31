@@ -20,7 +20,5 @@ Veri seti: https://www.kaggle.com/datasets/adityakadiwal/water-potability
 
 ```bash
 # Gerekli kütüphaneleri yükleyin
-pip install -r requirements.txt
+pip install pandas numpy scikit-learn matplotlib seaborn plotly missingno
 
-# Projeyi çalıştırın (örnek)
-python main.py
